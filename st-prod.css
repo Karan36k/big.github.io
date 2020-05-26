@@ -1,0 +1,23 @@
+/*!
+ * Web Fonts from Fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2018 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      Mint Type
+ * License URL: https://www.fontspring.com/licenses/mint-type/webfont
+ *
+ *
+ */@font-face{font-family:probapro-regular;src:url(https://d.novoresume.com/nwf/w/probapro-regular-webfont.woff2) format('woff2'),url(https://d.novoresume.com/nwf/w/probapro-regular-webfont.woff) format('woff');font-weight:400;font-style:normal}@font-face{font-family:probapro-bold;src:url(https://d.novoresume.com/nwf/w/probapro-bold-webfont.woff2) format('woff2'),url(https://d.novoresume.com/nwf/w/probapro-bold-webfont.woff) format('woff');font-weight:400;font-style:normal}@font-face{font-family:probapro-italic;src:url(https://d.novoresume.com/nwf/w/probapro-italic-webfont.woff2) format('woff2'),url(https://d.novoresume.com/nwf/w/probapro-italic-webfont.woff) format('woff');font-weight:400;font-style:normal}@font-face{font-family:Cabin;font-style:normal;font-weight:700;src:local("Cabin Bold"),local("Cabin-Bold"),url(https://fonts.gstatic.com/s/cabin/v10/UXGhLjKiqzg6toFP8iMMURTbgVql8nDJpwnrE27mub0.woff2) format("woff2");unicode-range:U+0102-0103,U+1EA0-1EF9,U+20AB}@font-face{font-family:Cabin;font-style:normal;font-weight:700;src:local("Cabin Bold"),local("Cabin-Bold"),url(https://fonts.gstatic.com/s/cabin/v10/x3m-U6JeQcwjGsnYLXQv4xTbgVql8nDJpwnrE27mub0.woff2) format("woff2");unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:Cabin;font-style:normal;font-weight:700;src:local("Cabin Bold"),local("Cabin-Bold"),url(https://fonts.gstatic.com/s/cabin/v10/82B-3YlzWJm8zbCrVEmc_vesZW2xOQ-xsNqO47m55DA.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215}
